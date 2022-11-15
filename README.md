@@ -8,5 +8,5 @@ C Assignment 1 - 15.11.2022
 4. [Write a C program to calculate area and circumference of a circle using pre-processor directive.](https://github.com/noobshubham/C-Assignment-15.11.2022/blob/master/circle_area_circumferance.c)
 5. Write a C program to find out if input character is a digit, alphabet or special symbol. 
 6. [Write a C program to find out if input alphabet is a vowel or not.](https://github.com/noobshubham/C-Assignment-15.11.2022/blob/master/vowels_check.c)
-7. Write a program to find largest and second largest of 3 numbers using Nested if statement. 
+7. [Write a program to find largest and second largest of 3 numbers using Nested if statement.](https://github.com/noobshubham/C-Assignment-15.11.2022/blob/master/find_largest.c)
 8. [Write a program to input marks of three subjects for a student. Calculate percentage and find his result (First class/ Second class/ Third class/ Fail) using if-else statement.](https://github.com/noobshubham/C-Assignment-15.11.2022/blob/master/cal_percentage.c)
