@@ -20,6 +20,3 @@ bin/
 
 # Unignore all `.exe` in `bin` dir
 !*/bin/*.exe
-
-# Ignore `TODO` file
-Sparse Matrix and Polynomial Using Linked List\TODO
