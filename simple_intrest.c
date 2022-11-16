@@ -12,16 +12,16 @@ T = time (in years)
 
 #include <stdio.h>
 
-int SimpleIntrest(int principle, int rate, int time)
+int SimpleIntrest(int principal, int rate, int time)
 {
-    return (principle * rate * time) / 100;
+    return (principal * rate * time) / 100;
 }
 
 void main()
 {
     int p, r, t;
 
-    printf("Enter the Initial Principle Balance: ");
+    printf("Enter the Initial Principal Balance: ");
     scanf("%d", &p);
 
     printf("Enter the Annual Intrest Rate: ");
