@@ -18,4 +18,4 @@ Task for 17.11.2022
 1. [Taking an input N from the user, print all the even numbers in descending order up to zero.](https://github.com/noobshubham/C-Assignment-15.11.2022/blob/master/Task%20for%2017.11.22/desc_even_number.c)
 2. [Write a program to calculate the difference of the sum of all odd numbers upto N and all even Numbers upto N.](https://github.com/noobshubham/C-Assignment-15.11.2022/blob/master/Task%20for%2017.11.22/sum_of_odd_even.c)
 3. Take 4 number from the user a,b,c,d and then find the value of (a^b)/(c^d). You should not use pow() function.
-4. Find the value of a%b (taking the values of and b from the user), without using the '%' operator.
+4. [Find the value of a%b (taking the values of and b from the user), without using the '%' operator.](https://github.com/noobshubham/C-Assignment-15.11.2022/blob/master/Task%20for%2017.11.22/find_value_of_a_mod_b.c)
