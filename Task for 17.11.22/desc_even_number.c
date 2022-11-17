@@ -6,12 +6,10 @@ Taking an input N from the user, print all the even numbers in descending order 
 
 void PrintEvenInDescOrder(int n)
 {
-    for (int i = n; i >= n; i--)
+    while (n-- > 1)
     {
-        if (i % 2 == 0)
-        {
-            printf("%d ", i);
-        }
+        if (n % 2 == 0)
+            printf("%d ", n);
     }
 }
 
