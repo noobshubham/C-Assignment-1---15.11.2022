@@ -3,7 +3,7 @@ Database of C Assignments
 
 
 Assignment 1 - 15.11.2022
--------------------------------
+---------------------------
 
 1. [Write a C program to input Principal, Rate and Time and calculate Simple Interest.](https://github.com/noobshubham/C-Assignment-15.11.2022/blob/master/simple_intrest.c)
 2. [Write a C program to input temperature in Fahrenheit and convert it to Celsius.](https://github.com/noobshubham/C-Assignment-15.11.2022/blob/master/convert_temps.c)
