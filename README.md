@@ -1,6 +1,9 @@
-C Assignment 1 - 15.11.2022
--------------------------------
+Database of C Assignments
+============================
 
+
+Assignment 1 - 15.11.2022
+-------------------------------
 
 1. [Write a C program to input Principal, Rate and Time and calculate Simple Interest.](https://github.com/noobshubham/C-Assignment-15.11.2022/blob/master/simple_intrest.c)
 2. [Write a C program to input temperature in Fahrenheit and convert it to Celsius.](https://github.com/noobshubham/C-Assignment-15.11.2022/blob/master/convert_temps.c)
@@ -12,7 +15,7 @@ C Assignment 1 - 15.11.2022
 8. [Write a program to input marks of three subjects for a student. Calculate percentage and find his result (First class/ Second class/ Third class/ Fail) using if-else statement.](https://github.com/noobshubham/C-Assignment-15.11.2022/blob/master/cal_percentage.c)
 
 
-Task for 17.11.2022
+Assignment 2 - 17.11.2022
 ---------------------------
 
 1. [Taking an input N from the user, print all the even numbers in descending order up to zero.](https://github.com/noobshubham/C-Assignment-15.11.2022/blob/master/Task%20for%2017.11.22/desc_even_number.c)
