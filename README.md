@@ -22,6 +22,7 @@ Assignment 2 - 17.11.2022
 2. [Write a program to calculate the difference of the sum of all odd numbers upto N and all even Numbers upto N.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%202%20-%2017.11.2022/sum_of_odd_even.c)
 3. [Take 4 number from the user a,b,c,d and then find the value of (a^b)/(c^d). You should not use pow() function.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%202%20-%2017.11.2022/alt_of_pow.c)
 4. [Find the value of a%b (taking the values of and b from the user), without using the '%' operator.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%202%20-%2017.11.2022/find_value_of_a_mod_b.c)
+5. [Write a program to find if a given number is prime or not.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%202%20-%2017.11.2022/find_prime_number.c)
 
 
 Assignment 3 - 21.11.2022
