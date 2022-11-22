@@ -32,10 +32,12 @@ Assignment 3 - 21.11.2022
 3. Input a number and find if it is an Armstrong number or not.
 4. Find the largest and smallest digit of a number.
 5. [Print the pattern](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/pattern.c)
+```
 1 2 3 4
 1 2 3
 1 2
 1
+```
 6. Find the sum of the series 1 + x + x 2 + x 3 + ... + x^n
 7. Find sum of series 1 + 1/2 + 1/3 + ... 1/n
 8. Find Largest and Second Largest element in an array.
