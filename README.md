@@ -22,3 +22,22 @@ Assignment 2 - 17.11.2022
 2. [Write a program to calculate the difference of the sum of all odd numbers upto N and all even Numbers upto N.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%202%20-%2017.11.2022/sum_of_odd_even.c)
 3. [Take 4 number from the user a,b,c,d and then find the value of (a^b)/(c^d). You should not use pow() function.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%202%20-%2017.11.2022/alt_of_pow.c)
 4. [Find the value of a%b (taking the values of and b from the user), without using the '%' operator.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%202%20-%2017.11.2022/find_value_of_a_mod_b.c)
+
+
+Assignment 3 - 21.11.2022
+---------------------------
+
+1. [Write a program to find GCD and LCM of two numbers.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/gcd_n_lcm.c)
+2. Write a menu driven program to perform different arithmetic operations.
+3. Input a number and find if it is an Armstrong number or not.
+4. Find the largest and smallest digit of a number.
+5. [Print the pattern](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/pattern.c)
+1 2 3 4
+1 2 3
+1 2
+1
+6. Find the sum of the series 1 + x + x 2 + x 3 + ... + x^n
+7. Find sum of series 1 + 1/2 + 1/3 + ... 1/n
+8. Find Largest and Second Largest element in an array.
+9. Sort a list of N numbers using Bubble sort technique.
+10. Find if a given matrix is Identity Matrix or not.
