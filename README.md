@@ -31,7 +31,7 @@ Assignment 3 - 21.11.2022
 1. [Write a program to find GCD and LCM of two numbers.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/gcd_n_lcm.c)
 2. [Write a menu driven program to perform different arithmetic operations.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/arithmetic_operation.c)
 3. [Input a number and find if it is an Armstrong number or not.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/armstrong_number.c)
-4. Find the largest and smallest digit of a number.
+4. [Find the largest and smallest digit of a number.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/largestAndSmallest.c)
 5. [Print the pattern](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/pattern.c)
 ```
 1 2 3 4
