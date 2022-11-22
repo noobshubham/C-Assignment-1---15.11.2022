@@ -41,6 +41,6 @@ Assignment 3 - 21.11.2022
 ```
 6. Find the sum of the series 1 + x + x 2 + x 3 + ... + x^n
 7. Find sum of series 1 + 1/2 + 1/3 + ... 1/n
-8. Find Largest and Second Largest element in an array.
+8. [Find Largest and Second Largest element in an array.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/largest_n_second_largest_in_array.c)
 9. Sort a list of N numbers using Bubble sort technique.
 10. Find if a given matrix is Identity Matrix or not.
