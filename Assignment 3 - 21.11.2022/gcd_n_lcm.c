@@ -1,3 +1,7 @@
+/*
+Write a program to find GCD and LCM of two numbers.
+*/
+
 #include <stdio.h>
 
 void main()
