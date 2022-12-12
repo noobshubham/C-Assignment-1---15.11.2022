@@ -13,7 +13,6 @@ void main()
     for (int i = 0; i < size; i++)
     {
         flag = 0;
-        printf("Iterarion Number %d\n", i);
         for (int j = 0; j < size; j++)
         {
             if (array[j] > array[j + 1])
