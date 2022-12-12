@@ -67,3 +67,10 @@ Basic C Programs - 12.12.2022
 ABCDEDCBA     543212345
 ```
 12. Write a c program to convert number in characters.
+
+
+Visitors Count
+------------------
+
+<img align="left" src = "https://profile-counter.glitch.me/C-Assignments/count.svg" alt ="Loading">
+
