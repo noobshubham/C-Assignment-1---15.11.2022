@@ -44,3 +44,26 @@ Assignment 3 - 21.11.2022
 8. [Find Largest and Second Largest element in an array.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/largest_n_second_largest_in_array.c)
 9. [Sort a list of N numbers using Bubble sort technique.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/bubble_sort.c)
 10. [Find if a given matrix is Identity Matrix or not.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/IsIdentityMatrix.c)
+
+Basic C Programs - 12.12.2022
+---------------------------
+
+1. Write a c program to print Fibonacci series without using recursion and using recursion.
+2. Write a c program to check prime number.
+3. Write a c program to check palindrome number.
+4. Write a c program to print factorial of a number.
+5. Write a c program to check Armstrong number.
+6. Write a c program to print sum of digits.
+7. Write a c program to reverse given number.
+8. Write a c program to swap two numbers without using third variable.
+9. Write a c program to print multiplication of 2 matrices.
+10. Write a c program to convert decimal number to binary.
+11. Write a c program to print alphabet triangle and number triangle.
+```
+    A             1
+   ABA           212
+  ABCBA         32123
+ ABCDCBA       4321234
+ABCDEDCBA     543212345
+```
+12. Write a c program to convert number in characters.
