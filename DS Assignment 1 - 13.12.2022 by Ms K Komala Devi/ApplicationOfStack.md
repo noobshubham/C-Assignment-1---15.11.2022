@@ -10,7 +10,17 @@ Stack is a linear data structure which follows a particular order in which the o
 <img src="https://cdn1.byjus.com/wp-content/uploads/2022/01/last-in-first-out-in-stack.png" alt="operation of stack data structure">
 </p>
 
-Application of Stack
----------------------
+Application of Stack Data Structure
+-------------------------------------
 
-1. 
+1. Stack is used for evaluating expression with operands and operations.
+2. Matching tags in HTML and XML
+3. Undo and Redo mechanism in text editors.
+
+
+Application of Stack in real life
+-----------------------------------
+
+1. CD/DVD stand.
+2. Stack of books in a book shop.
+3. The history of a web browser is stored in the form of a stack.
