@@ -17,6 +17,10 @@ Application of Stack Data Structure
 2. Matching tags in HTML and XML
 3. Undo and Redo mechanism in text editors.
 
+<p align="center">
+<img src="https://github.com/noobshubham/C-Assignments/blob/master/DS%20Assignment%201%20-%2013.12.2022%20by%20Ms%20K%20Komala%20Devi/application%20of%20stack%20data%20structure.png?raw=true" alt="application of stack data structure">
+</p>
+
 
 Application of Stack in real life
 -----------------------------------
