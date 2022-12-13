@@ -67,3 +67,11 @@ Basic C Programs - 12.12.2022
 ABCDEDCBA     543212345
 ```
 12. Write a c program to convert number in characters.
+
+
+DS Assignment 1 - 13.12.2022 by Ms K Komala Devi
+--------------------------------------------------
+
+1. Write a C program to implement Stack and its Operations using an Array.
+2. Write a C program to read your  name and display the same.
+3. List an Applications of Stack.
