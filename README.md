@@ -75,3 +75,10 @@ DS Assignment 1 - 13.12.2022 by Ms K Komala Devi
 1. Write a C program to implement Stack and its Operations using an Array.
 2. Write a C program to read your  name and display the same.
 3. List an Applications of Stack.
+
+
+Visitors Count
+------------------
+
+<img align="left" src = "https://profile-counter.glitch.me/C-Assignments/count.svg" alt ="Loading">
+
