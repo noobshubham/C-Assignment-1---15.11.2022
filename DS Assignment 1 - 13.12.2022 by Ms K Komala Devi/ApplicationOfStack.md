@@ -24,3 +24,7 @@ Application of Stack in real life
 1. CD/DVD stand.
 2. Stack of books in a book shop.
 3. The history of a web browser is stored in the form of a stack.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/noobshubham/C-Assignments/master/DS%20Assignment%201%20-%2013.12.2022%20by%20Ms%20K%20Komala%20Devi/real%20world%20application%20of%20stack.png" alt="real world application of stack">
+</p>
