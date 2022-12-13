@@ -20,3 +20,7 @@ bin/
 
 # Unignore all `.exe` in `bin` dir
 !*/bin/*.exe
+
+
+# Ignore Settings of VSCode
+*.vscode
