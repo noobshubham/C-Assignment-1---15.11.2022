@@ -1,29 +1,32 @@
 /*
 Write a c program to check Armstrong number.
 */
-
 #include <stdio.h>
-
-void CheckArmstrongNumber(int n)
-{
-    int r, sum = 0, temp = n;
-    while (n > 0)
-    {
-        r = n % 10;
-        sum += r * r * r;
-        n /= 10;
-    }
-    if (temp == sum)
-        printf("an armstrong number");
-    else
-        printf("not an armstrong number");
-}
+#include <math.h>
 
 void main()
 {
-    int n;
+    int num, n = 0, originalNum, remainder;
+    float result = 0.0;
     printf("enter the number: ");
-    scanf("%d", &n);
+    scanf("%d", &num);
 
-    CheckArmstrongNumber(n);
+    // store the number of digits of num to n;
+    for (originalNum = num; originalNum != 0; ++n)
+        originalNum /= 10;
+
+    // find armstrong number
+    for (originalNum = num; originalNum != 0; originalNum /= 10)
+    {
+        remainder = originalNum % 10;
+
+        // store the sum of the power of individual digits in result
+        result += pow(remainder, n);
+    }
+
+    // if num is equal to result, the number is an Armstrong number
+    if ((int)result == num)
+        printf("%d is an Armstrong number.", num);
+    else
+        printf("%d is not an Armstrong number.", num);
 }
