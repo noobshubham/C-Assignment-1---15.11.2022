@@ -49,12 +49,12 @@ Basic C Programs - 12.12.2022
 ---------------------------
 
 1. [Write a c program to print Fibonacci series](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/fibonacci_series.c) [without using recursion](https://github.com/noobshubham/C-Assignments/blob/c1ae6fa55cfacbd77106e114c583acc5d2ce18a6/Basic%20C%20Programs%20-%2012.12.2022/fibonacci_series.c#L8-L21) and using recursion.
-2. Write a c program to check prime number.
-3. Write a c program to check palindrome number.
+2. [Write a c program to check prime number.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/prime_number.c)
+3. [Write a c program to check palindrome number.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/palindrome_number.c)
 4. Write a c program to print factorial of a number.
 5. Write a c program to check Armstrong number.
-6. Write a c program to print sum of digits.
-7. Write a c program to reverse given number.
+6. [Write a c program to print sum of digits.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/sum_of_digits.c)
+7. [Write a c program to reverse given number.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/reverse_number.c)
 8. [Write a c program to swap two numbers without using third variable.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/swap_numbers.c)
 9. Write a c program to print multiplication of 2 matrices.
 10. Write a c program to convert decimal number to binary.
