@@ -52,7 +52,7 @@ Basic C Programs - 12.12.2022
 2. [Write a c program to check prime number.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/prime_number.c)
 3. [Write a c program to check palindrome number.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/palindrome_number.c)
 4. Write a c program to print factorial of a number.
-5. Write a c program to check Armstrong number.
+5. [Write a c program to check Armstrong number.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/armstrong_number.c)
 6. [Write a c program to print sum of digits.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/sum_of_digits.c)
 7. [Write a c program to reverse given number.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/reverse_number.c)
 8. [Write a c program to swap two numbers without using third variable.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/swap_numbers.c)
