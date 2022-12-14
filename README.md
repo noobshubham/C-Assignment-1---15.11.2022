@@ -55,7 +55,7 @@ Basic C Programs - 12.12.2022
 5. Write a c program to check Armstrong number.
 6. Write a c program to print sum of digits.
 7. Write a c program to reverse given number.
-8. Write a c program to swap two numbers without using third variable.
+8. [Write a c program to swap two numbers without using third variable.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/swap_numbers.c)
 9. Write a c program to print multiplication of 2 matrices.
 10. Write a c program to convert decimal number to binary.
 11. Write a c program to print alphabet triangle and number triangle.
