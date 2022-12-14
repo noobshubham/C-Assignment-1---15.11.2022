@@ -48,7 +48,7 @@ Assignment 3 - 21.11.2022
 Basic C Programs - 12.12.2022
 ---------------------------
 
-1. [Write a c program to print Fibonacci series](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/fibonacci_series.c) [without using recursion](https://github.com/noobshubham/C-Assignments/blob/c1ae6fa55cfacbd77106e114c583acc5d2ce18a6/Basic%20C%20Programs%20-%2012.12.2022/fibonacci_series.c#L8-L21) and using recursion.
+1. [Write a c program to print Fibonacci series](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/fibonacci_series.c) [without using recursion](https://github.com/noobshubham/C-Assignments/blob/d953766449e4e6894894bd3d3b306bd9db9a3332/Basic%20C%20Programs%20-%2012.12.2022/fibonacci_series.c#L13-L27) and [using recursion.](https://github.com/noobshubham/C-Assignments/blob/d953766449e4e6894894bd3d3b306bd9db9a3332/Basic%20C%20Programs%20-%2012.12.2022/fibonacci_series.c#L6-L11)
 2. [Write a c program to check prime number.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/prime_number.c)
 3. [Write a c program to check palindrome number.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/palindrome_number.c)
 4. [Write a c program to print factorial of a number.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/factorial_number.c)
