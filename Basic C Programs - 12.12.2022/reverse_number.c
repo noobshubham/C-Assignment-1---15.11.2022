@@ -2,7 +2,9 @@
 
 void main()
 {
-    int n = 123, rev = 0;
+    int n, rev = 0;
+    printf("Enter the Value: ");
+    scanf("%d", &n);
 
     while (n != 0)
     {
