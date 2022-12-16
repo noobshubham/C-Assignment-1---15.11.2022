@@ -58,7 +58,7 @@ Basic C Programs - 12.12.2022
 8. [Write a c program to swap two numbers without using third variable.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/swap_numbers.c)
 9. [Write a c program to print multiplication of 2 matrices.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/matrix_addition.c)
 10. [Write a c program to convert decimal number to binary.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/decimal_to_binary.c)
-11. Write a c program to print alphabet triangle and number triangle.
+11. [Write a c program to print](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/print_triangle.c) [alphabet triangle](https://github.com/noobshubham/C-Assignments/blob/af709477a31df0fbe549e61342df317aeafbd9fd/Basic%20C%20Programs%20-%2012.12.2022/print_triangle.c#L11-L23) and [number triangle.](https://github.com/noobshubham/C-Assignments/blob/af709477a31df0fbe549e61342df317aeafbd9fd/Basic%20C%20Programs%20-%2012.12.2022/print_triangle.c#L25-L37)
 ```
     A             1
    ABA           212
