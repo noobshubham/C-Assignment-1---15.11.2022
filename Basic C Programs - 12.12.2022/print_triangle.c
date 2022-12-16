@@ -16,8 +16,8 @@ void AlphaTrianlge(int size)
             printf(" ");
         for (int j = 0; j <= i; j++)
             printf("%c", j + 65);
-        for (int k = 0; k < i; k++)
-            printf("%c", k + 65);
+        for (int k = i; k >= 1; k--)
+            printf("%c", k + 64);
         printf("\n");
     }
 }
@@ -38,6 +38,8 @@ void NumTrianlge(int size)
 
 void main()
 {
+    printf("Printing Alphabetic Pyramid\n");
     AlphaTrianlge(5);
-    // NumTrianlge(5);
+    printf("\nPrinting Numeric Pyramid\n");
+    NumTrianlge(5);
 }
