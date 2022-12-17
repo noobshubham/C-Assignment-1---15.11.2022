@@ -10,7 +10,7 @@ void main()
     int array[] = {80, 10, 70, 20, 60, 30, 50, 40};
     int size = 8, temp, flag;
 
-    for (int i = 0; i < size; i++)
+    for (int i = 0; i < size - 1; i++)
     {
         flag = 0;
         for (int j = 0; j < size; j++)
