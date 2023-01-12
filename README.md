@@ -83,12 +83,12 @@ Algorithms 1 - 11.01.2023 by Ms. Moumita Roy
 1. According to the Gregorian calendar, it was Monday on the
 date 01/01/1900. If any year is input through the keyboard write a program to
 find out what is the day on 1st January of this year.
-2. A five-digit number is entered through the keyboard.
+2. [A five-digit number is entered through the keyboard.
 Write a program to obtain the reversed number and to determine whether the
-original and reversed numbers are equal or not.
+original and reversed numbers are equal or not.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%201%20-%2011.01.2023/palindrome.c)
 3. [If the ages of Ram, Shyam and Ajay are input through the keyboard, write a program
 to determine the youngest of the three.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%201%20-%2011.01.2023/determine_youngest.c)
-4. An Insurance company follows following rules to calculate premium. (1) If a
+4. [An Insurance company follows following rules to calculate premium. (1) If a
 person’s health is excellent and the person is between 25 and 35 years of age
 and lives in a city and is a male then the premium is Rs. 4 per thousand and
 his policy amount cannot exceed Rs. 2 lakhs. (2) If a person satisfies all the
@@ -98,14 +98,14 @@ is poor and the person is between 25 and 35 years of age and lives in a village
 and is a male 90 Let Us C then the premium is Rs. 6 per thousand and his policy
 cannot exceed Rs. 10,000. (4) In all other cases the person is not insured.
 Write a program to output whether the person should be insured or not, his/her
-premium rate and maximum amount for which he/she can be insured.
-5. A library charges a fine for every book returned late. For first 5 days the fine
+premium rate and maximum amount for which he/she can be insured.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%201%20-%2011.01.2023/insurance.c)
+5. [A library charges a fine for every book returned late. For first 5 days the fine
 is 50 paise, for 6-10 days fine is one rupee and above 10 days fine is 5
 rupees. If you return the book after 30 days your membership will be cancelled.
 Write a program to accept the number of days the member is late to return the
-book and display the fine or the appropriate message.
-6. Write a program using conditional operators to determine
-whether a year entered through the keyboard is a leap year or not.
+book and display the fine or the appropriate message.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%201%20-%2011.01.2023/libraryFine.c)
+6. [Write a program using conditional operators to determine
+whether a year entered through the keyboard is a leap year or not.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%201%20-%2011.01.2023/conditional_Leap.c)
 
 
 Visitors Count
