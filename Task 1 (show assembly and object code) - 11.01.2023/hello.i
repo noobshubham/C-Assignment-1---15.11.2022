@@ -1,7 +1,7 @@
-# 0 "main.c"
+# 0 "hello.c"
 # 0 "<built-in>"
 # 0 "<command-line>"
-# 1 "main.c"
+# 1 "hello.c"
 # 1 "C:/Applications/msys64/mingw64/include/stdio.h" 1 3
 # 9 "C:/Applications/msys64/mingw64/include/stdio.h" 3
 # 1 "C:/Applications/msys64/mingw64/include/corecrt_stdio_config.h" 1 3
@@ -1042,10 +1042,10 @@ void __attribute__((__cdecl__)) __mingw_str_free(void *ptr);
   __attribute__ ((__dllimport__)) int __attribute__((__cdecl__)) _snwscanf_l(const wchar_t *_Src,size_t _MaxCount,const wchar_t *_Format,_locale_t _Locale,...);
   __attribute__ ((__dllimport__)) int __attribute__((__cdecl__)) _wscanf_l(const wchar_t *_Format,_locale_t _Locale,...);
 # 1581 "C:/Applications/msys64/mingw64/include/stdio.h" 2 3
-# 2 "main.c" 2
+# 2 "hello.c" 2
 
 
-# 3 "main.c"
+# 3 "hello.c"
 void main()
 {
     printf("Hello, world!\n");

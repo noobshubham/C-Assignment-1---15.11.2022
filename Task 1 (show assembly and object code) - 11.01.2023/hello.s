@@ -1,4 +1,4 @@
-	.file	"main.c"
+	.file	"hello.c"
 	.text
 	.def	printf;	.scl	3;	.type	32;	.endef
 	.seh_proc	printf
