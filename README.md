@@ -118,7 +118,7 @@ Your program should ensure that the computer always wins.](https://github.com/no
 - The computer asks the player to pick 1, 2, 3, or 4 matchsticks. 
 - After the person picks, the computer does its picking. 
 - Whoever is forced to pick up the last matchstick loses the game.
-
+</details>
 
 1. [Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%202%20-%2011.01.2023/SecondProgram.c)
 2. [Write a program to print out all Armstrong numbers between 1 and 500. If sum of cubes of each digit of the number is equal to the number itself, then the number is called an Armstrong number.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%202%20-%2011.01.2023/AmstrongProblem.c) For example, ```153 = ( 1 * 1 * 1 ) + ( 5 * 5 * 5 ) + ( 3 * 3 * 3 )```
