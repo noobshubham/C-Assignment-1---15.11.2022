@@ -117,7 +117,7 @@ Your program should ensure that the computer always wins.](https://github.com/no
 - Whoever is forced to pick up the last matchstick loses the game.
 2. [Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%202%20-%2011.01.2023/SecondProgram.c)
 3. [Write a program to print out all Armstrong numbers between 1 and 500. If sum of cubes of each digit of the number is equal to the number itself, then the number is called an Armstrong number.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%202%20-%2011.01.2023/AmstrongProblem.c) For example, ```153 = ( 1 * 1 * 1 ) + ( 5 * 5 * 5 ) + ( 3 * 3 * 3 )```
-4. Write a program to add first seven terms of the following series using a for loop: ```1/1!+2/2!+3/3!...```
+4. [Write a program to add first seven terms of the following series using a for loop: ```1/1!+2/2!+3/3!...```](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%202%20-%2011.01.2023/sum_of_series.c)
 5. According to a study, the approximate level of intelligence of a person can be calculated using the following formula: ```i = 2 + ( y + 0.5 x )```. Write a program, which will produce a table of values of i, y and x, where y varies from 1 to 6, and, for each value of y, x varies from 5.5 to 12.5 in steps of 0.5.
 6. [Write a program to produce the following output:](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%202%20-%2011.01.2023/print_pattern.c)
 ```
