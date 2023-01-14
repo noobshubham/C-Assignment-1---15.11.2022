@@ -4,7 +4,7 @@ main()
 {
     for (int i = 2; i < 500; i++)
     {
-        int j = amstrongh(i);
+        int j = armstrong(i);
         if (j == 1)
         {
             printf("%d ", i);
@@ -12,7 +12,7 @@ main()
     }
 }
 
-int amstrongh(int a)
+int armstrong(int a)
 {
     int sum = 0, temp = a;
     while (a > 0)
