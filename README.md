@@ -80,9 +80,9 @@ DS Assignment 1 - 13.12.2022 by Ms K Komala Devi
 Algorithms 1 - 11.01.2023 by Ms. Moumita Roy
 ----------------------------------------------
 
-1. According to the Gregorian calendar, it was Monday on the
+1. [According to the Gregorian calendar, it was Monday on the
 date 01/01/1900. If any year is input through the keyboard write a program to
-find out what is the day on 1st January of this year.
+find out what is the day on 1st January of this year.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%201%20-%2011.01.2023/1st%20January%20Day.c)
 2. [A five-digit number is entered through the keyboard.
 Write a program to obtain the reversed number and to determine whether the
 original and reversed numbers are equal or not.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%201%20-%2011.01.2023/palindrome.c)
@@ -106,6 +106,69 @@ Write a program to accept the number of days the member is late to return the
 book and display the fine or the appropriate message.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%201%20-%2011.01.2023/libraryFine.c)
 6. [Write a program using conditional operators to determine
 whether a year entered through the keyboard is a leap year or not.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%201%20-%2011.01.2023/conditional_Leap.c)
+
+Algorithms 2 - 11.01.2023 by Ms. Moumita Roy
+---------------------------------------------
+1. Write a program for a matchstick game being played between
+the computer and a user. Your program should ensure that the computer always
+wins. Rules for the game are as follows: − There are 21 matchsticks. − The
+computer asks the player to pick 1, 2, 3, or 4 matchsticks. − After the person
+picks, the computer does its picking. − Whoever is forced to pick up the last
+matchstick loses the game.
+
+
+
+2. Write a program to enter the numbers till the user wants and
+at the end it should display the count of positive, negative and zeros entered.
+
+
+
+3. Write a program to print out all Armstrong numbers between 1
+and 500. If sum of cubes of each digit of the number is equal to the number
+itself, then the number is called an Armstrong number. For example, 153 = ( 1 *
+1 * 1 ) + ( 5 * 5 * 5 ) + ( 3 * 3 * 3 )
+
+
+
+4. Write a program to add first seven terms of the following
+series using a for loop: 1/1!+2/2!+3/3! ……
+
+
+
+5. According to a study, the approximate level of intelligence
+of a person can be calculated using the following formula: i = 2 + ( y + 0.5 x
+). Write a program, which will produce a table of values of i, y and x, where y
+varies from 1 to 6, and, for each value of y, x varies from 5.5 to 12.5 in
+steps of 0.5.
+
+
+
+6. Write a program to produce the following output:
+
+
+           1
+
+
+        2 
+ 3
+
+
+      4  
+5   6
+
+
+   7    8   9  10
+
+
+
+7. The natural
+logarithm can be approximated by the following series. 
+((x-1)/x) + 1/2((x-1)/x)^2 + 1/2((x-1)/x)^3 + 1/2((x-1)/x)^4 +....
+
+
+If x is input through the
+keyboard, write a program to calculate the sum of first seven terms of this
+series.
 
 
 Visitors Count
