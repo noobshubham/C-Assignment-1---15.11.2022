@@ -126,9 +126,9 @@ Your program should ensure that the computer always wins.](https://github.com/no
  4 5 6
 7 8 9 10
 ```
-7. The natural logarithm can be approximated by the following series. 
+7. [The natural logarithm can be approximated by the following series. 
 ```((x-1)/x) + 1/2((x-1)/x)^2 + 1/2((x-1)/x)^3 + 1/2((x-1)/x)^4 + ...```
-If x is input through the keyboard, write a program to calculate the sum of first seven terms of this series.
+If x is input through the keyboard, write a program to calculate the sum of first seven terms of this series.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%202%20-%2011.01.2023/natural_logarithm.c)
 
 
 Visitors Count
