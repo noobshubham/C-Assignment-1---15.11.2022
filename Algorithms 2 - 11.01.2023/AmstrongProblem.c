@@ -1,7 +1,9 @@
 #include <stdio.h>
 
-main(){
-    for(int i = 2; i<500; i++){
+main()
+{
+    for (int i = 2; i < 500; i++)
+    {
         int j = amstrongh(i);
         if (j == 1)
         {
