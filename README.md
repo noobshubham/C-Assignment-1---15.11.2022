@@ -110,9 +110,7 @@ whether a year entered through the keyboard is a leap year or not.](https://gith
 Algorithms 2 - 11.01.2023 by Ms. Moumita Roy
 ---------------------------------------------
 1. Write a program for a matchstick game being played between the computer and a user. 
-Your program should ensure that the computer always wins.
- 
-Rules for the game are as follows: 
+Your program should ensure that the computer always wins. Rules for the game are as follows: 
 - There are 21 matchsticks. 
 - The computer asks the player to pick 1, 2, 3, or 4 matchsticks. 
 - After the person picks, the computer does its picking. 
