@@ -19,7 +19,7 @@ float* evaluate(float *p, float n){
     return &f;
 }
 void main(){
-    float ar[] = {-6,-12,8,13,11,6,7,2,-6,-9,-10,11,10,9,2};
+    float ar[] = 
     int n = sizeof(ar)/sizeof(ar[0]);
     float *p;
     p = evaluate(&ar, n);
