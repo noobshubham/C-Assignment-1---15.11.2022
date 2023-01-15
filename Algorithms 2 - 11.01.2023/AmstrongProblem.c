@@ -6,9 +6,7 @@ main()
     {
         int j = armstrong(i);
         if (j == 1)
-        {
             printf("%d ", i);
-        }
     }
 }
 
