@@ -25,7 +25,7 @@ void main()
                 indegree = 0;
                 for (j = 0; j < n; j++)
                 {
-                    if (!(visit[j] == 1 || arr[j][i] == 0))
+                    if (!((visit[j] == 1) || (arr[j][i] == 0)))
                     {
                         indegree = 1;
                         break;
@@ -42,6 +42,7 @@ void main()
             }
         }
     }
+    // printf("count=%d\n", count);
     if (count != n)
         printf("topological order is not possible!");
 }
