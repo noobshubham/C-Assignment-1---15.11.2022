@@ -19,7 +19,8 @@ int partition(int arr[], int s, int e)
     pivot = arr[s];
     i = s + 1;
     j = e;
-    while (i <= j) {
+    while (i <= j)
+    {
         while (arr[i] <= pivot && i <= e) i++;
         while (arr[j] > pivot) j--;
         if (i < j) swap(&arr[i], &arr[j]);
