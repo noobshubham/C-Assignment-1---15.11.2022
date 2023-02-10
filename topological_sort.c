@@ -1,9 +1,11 @@
 /*
-01011
-00110
-00001
-00001
-00000
+0 1 1 1 1
+0 0 1 0 0
+0 0 0 0 0
+0 0 0 0 1
+0 0 1 0 0
+
+Topological Order will be 0 1 3 4 2
 */
 #include <stdio.h>
 
@@ -22,6 +24,7 @@ void main()
             scanf("%d", &arr[i][j]);
     }
 
+    printf("Topological Order is: ");
     while (flag == 0)
     {
         flag = 1;
@@ -41,7 +44,7 @@ void main()
                 if (indegree == 0)
                 {
                     visit[i] = 1;
-                    printf("%d", i);
+                    printf("%d ", i);
                     flag = 0;
                     count++;
                     break;
@@ -49,15 +52,7 @@ void main()
             }
         }
     }
-    // printf("count=%d\n", count);
+
     if (count != n)
         printf("topological order is not possible!");
 }
-
-/*
-0 1 0 1 1
-0 0 1 1 0
-0 0 0 0 1
-0 0 0 0 1
-0 0 0 0 0
-*/
