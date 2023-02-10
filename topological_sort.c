@@ -20,7 +20,7 @@ void main()
         flag = 1;
         for (i = 0; i < n; i++)
         {
-            if (visit[i] = 0)
+            if (visit[i] == 0)
             {
                 indegree = 0;
                 for (j = 0; j < n; j++)
