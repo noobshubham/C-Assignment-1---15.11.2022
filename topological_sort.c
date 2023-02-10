@@ -1,3 +1,10 @@
+/*
+01011
+00110
+00001
+00001
+00000
+*/
 #include <stdio.h>
 
 void main()
@@ -35,8 +42,8 @@ void main()
                 {
                     visit[i] = 1;
                     printf("%d", i);
-                    count++;
                     flag = 0;
+                    count++;
                     break;
                 }
             }
