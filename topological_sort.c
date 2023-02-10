@@ -8,7 +8,7 @@ void main()
 
     int arr[n][n], visit[n];
     printf("enter the adjacency matrix\n");
-    for (i = 0; i < 0; i++)
+    for (i = 0; i < n; i++)
     {
         visit[i] = 0;
         for (j = 0; j < n; j++)
@@ -45,3 +45,11 @@ void main()
     if (count != n)
         printf("topological order is not possible!");
 }
+
+/*
+0 1 0 1 1
+0 0 1 1 0
+0 0 0 0 1
+0 0 0 0 1
+0 0 0 0 0
+*/
