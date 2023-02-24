@@ -110,6 +110,11 @@ whether a year entered through the keyboard is a leap year or not.](https://gith
 Algorithms 2 - 11.01.2023 by Ms. Moumita Roy
 ---------------------------------------------
 
+
+
+<details>
+    <summary><h2>Algorithms 2 - 11.01.2023 by Ms. Moumita Roy</h2></summary>
+
 1. [Write a program for a matchstick game being played between the computer and a user. 
 Your program should ensure that the computer always wins.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%202%20-%2011.01.2023/matchstick_game.c) 
 <details>
@@ -135,30 +140,8 @@ Your program should ensure that the computer always wins.](https://github.com/no
 7. [The natural logarithm can be approximated by the following series. 
 ```((x-1)/x) + 1/2((x-1)/x)^2 + 1/2((x-1)/x)^3 + 1/2((x-1)/x)^4 + ...```
 If x is input through the keyboard, write a program to calculate the sum of first seven terms of this series.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%202%20-%2011.01.2023/natural_logarithm.c)
+</details>
 
-
-Algorithms 3 - 13.01.2023 by Ms. Moumita Roy
----------------------------------------------
-
-1. [A positive integer is entered through the keyboard. Write
-a function to obtain the prime factors of this number. For example, prime
-factors of 24 are 2, 2, 2 and 3, whereas prime factors of 35 are 5 and 7.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%203%20-%2013.01.2023/PrimeFactors.c)
-2. [Write a function that receives marks received by a
-student in 3 subjects and returns the average and percentage of these marks.
-Call this function from main( ) and print the results in main( ).](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%203%20-%2013.01.2023/Average_percentage.c)
-3. [Write a recursive function to obtain the first 25 numbers
-of a Fibonacci sequence. In a Fibonacci sequence the sum of two successive
-terms gives the third term. Following are the first few terms of the Fibonacci
-sequence: 1 1 2 3 5 8 13 21 34 55 89...](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%203%20-%2013.01.2023/FibonacciRecursion.c)
-4. [Given three variables x, y, z; write a function to
-circularly shift their values to right. In other words, if x = 5, y = 8, z = 10
-after circular shift y = 5, z = 8, x =10 after circular shift y = 5, z = 8 and
-x = 10. Call the function with variables a, b, c to circularly shift values.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%203%20-%2013.01.2023/CircularShift.c)
-5. [For the following set of sample data, compute the standard
-deviation and the mean.
-```-6, -12, 8, 13, 11, 6, 7, 2, -6, -9, -10, 11, 10, 9, 2```
-The formula for standard deviation is Square_root((xi-xm)^2)/n where xi is the data
-item, n is number of data items and xm is the mean.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%203%20-%2013.01.2023/StandardDeviationMean.c)
 
 <details>
     <summary><h2>Algorithms 3 - 13.01.2023 by Ms. Moumita Roy</h2></summary>
@@ -166,18 +149,18 @@ item, n is number of data items and xm is the mean.](https://github.com/noobshub
 1. [A positive integer is entered through the keyboard. Write
 a function to obtain the prime factors of this number. For example, prime
 factors of 24 are 2, 2, 2 and 3, whereas prime factors of 35 are 5 and 7.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%203%20-%2013.01.2023/PrimeFactors.c)
-2. [Write a function that receives marks received by a
+1. [Write a function that receives marks received by a
 student in 3 subjects and returns the average and percentage of these marks.
 Call this function from main( ) and print the results in main( ).](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%203%20-%2013.01.2023/Average_percentage.c)
-3. [Write a recursive function to obtain the first 25 numbers
+1. [Write a recursive function to obtain the first 25 numbers
 of a Fibonacci sequence. In a Fibonacci sequence the sum of two successive
 terms gives the third term. Following are the first few terms of the Fibonacci
 sequence: 1 1 2 3 5 8 13 21 34 55 89...](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%203%20-%2013.01.2023/FibonacciRecursion.c)
-4. [Given three variables x, y, z; write a function to
+1. [Given three variables x, y, z; write a function to
 circularly shift their values to right. In other words, if x = 5, y = 8, z = 10
 after circular shift y = 5, z = 8, x =10 after circular shift y = 5, z = 8 and
 x = 10. Call the function with variables a, b, c to circularly shift values.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%203%20-%2013.01.2023/CircularShift.c)
-5. [For the following set of sample data, compute the standard
+1. [For the following set of sample data, compute the standard
 deviation and the mean.
 ```-6, -12, 8, 13, 11, 6, 7, 2, -6, -9, -10, 11, 10, 9, 2```
 The formula for standard deviation is Square_root((xi-xm)^2)/n where xi is the data
