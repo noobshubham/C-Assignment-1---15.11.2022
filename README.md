@@ -171,6 +171,18 @@ item, n is number of data items and xm is the mean.](https://github.com/noobshub
 </details>
 
 
+<details>
+    <summary>Sorting Algos by Moumita Mam<summary>
+
+1. [Swap Sort](https://github.com/noobshubham/C-Assignments/blob/master/Sorting%20Algos/swap_sort.c)
+2. [Bubble / Insertion / Selection Sort](https://github.com/noobshubham/C-Assignments/blob/master/Sorting%20Algos/sorting_algos.c)
+3. [Merge Sort](https://github.com/noobshubham/C-Assignments/blob/master/Sorting%20Algos/merge_sort.c)
+4. [Quick Sort](https://github.com/noobshubham/C-Assignments/blob/master/Sorting%20Algos/quick_sort_two.c)
+5. [Reverse Quick Sort - Taking Pivot as Last Element](https://github.com/noobshubham/C-Assignments/blob/master/Sorting%20Algos/reverse_quick_sort.c)
+6. [Topological Sort](https://github.com/noobshubham/C-Assignments/blob/master/Sorting%20Algos/topological_sort.c)
+
+</details>
+
 Visitors Count
 ------------------
 
