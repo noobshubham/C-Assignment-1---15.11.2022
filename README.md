@@ -80,7 +80,7 @@ ABCDEDCBA     543212345
 
 
 <details>
-    <summary><h2>Algorithms 1 - 11.01.2023 by Ms. Moumita Roy</h2></summart=y>
+    <summary><h2>Algorithms 1 - 11.01.2023 by Ms. Moumita Roy</h2></summary>
 
 1. [According to the Gregorian calendar, it was Monday on the
 date 01/01/1900. If any year is input through the keyboard write a program to
