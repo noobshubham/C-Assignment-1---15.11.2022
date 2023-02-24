@@ -161,7 +161,7 @@ The formula for standard deviation is Square_root((xi-xm)^2)/n where xi is the d
 item, n is number of data items and xm is the mean.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%203%20-%2013.01.2023/StandardDeviationMean.c)
 
 <details>
-    <summary><h1>Algorithms 3 - 13.01.2023 by Ms. Moumita Roy</h1></summary>
+    <summary><h2>Algorithms 3 - 13.01.2023 by Ms. Moumita Roy</h2></summary>
 
 1. [A positive integer is entered through the keyboard. Write
 a function to obtain the prime factors of this number. For example, prime
