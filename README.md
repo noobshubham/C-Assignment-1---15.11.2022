@@ -45,8 +45,8 @@ Assignment 3 - 21.11.2022
 9. [Sort a list of N numbers using Bubble sort technique.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/bubble_sort.c)
 10. [Find if a given matrix is Identity Matrix or not.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/IsIdentityMatrix.c)
 
-Basic C Programs - 12.12.2022
----------------------------
+<details>
+    <summary><h2>Basic C Programs - 12.12.2022</h2></summary>
 
 1. [Write a c program to print Fibonacci series](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/fibonacci_series.c) [without using recursion](https://github.com/noobshubham/C-Assignments/blob/d953766449e4e6894894bd3d3b306bd9db9a3332/Basic%20C%20Programs%20-%2012.12.2022/fibonacci_series.c#L13-L27) and [using recursion.](https://github.com/noobshubham/C-Assignments/blob/d953766449e4e6894894bd3d3b306bd9db9a3332/Basic%20C%20Programs%20-%2012.12.2022/fibonacci_series.c#L6-L11)
 2. [Write a c program to check prime number.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/prime_number.c)
@@ -66,29 +66,31 @@ Basic C Programs - 12.12.2022
  ABCDCBA       4321234
 ABCDEDCBA     543212345
 ```
-12. [Write a c program to convert number in characters.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/convert_number_in_chars.c)
+1.  [Write a c program to convert number in characters.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/convert_number_in_chars.c)
+</details>
 
 
-DS Assignment 1 - 13.12.2022 by Ms K Komala Devi
---------------------------------------------------
+<details>
+    <summary><h2>DS Assignment 1 - 13.12.2022 by Ms K Komala Devi</h2></summary>
 
 1. [Write a C program to implement Stack and its Operations using an Array.](https://github.com/noobshubham/C-Assignments/blob/master/DS%20Assignment%201%20-%2013.12.2022%20by%20Ms%20K%20Komala%20Devi/stack_n_its_operation.c)
 2. [Write a C program to read your  name and display the same.](https://github.com/noobshubham/C-Assignments/blob/master/DS%20Assignment%201%20-%2013.12.2022%20by%20Ms%20K%20Komala%20Devi/display_name.c)
 3. [List an Applications of Stack.](https://github.com/noobshubham/C-Assignments/blob/master/DS%20Assignment%201%20-%2013.12.2022%20by%20Ms%20K%20Komala%20Devi/ApplicationOfStack.md)
+</details>
 
 
-Algorithms 1 - 11.01.2023 by Ms. Moumita Roy
-----------------------------------------------
+<details>
+    <summary><h2>Algorithms 1 - 11.01.2023 by Ms. Moumita Roy</h2></summart=y>
 
 1. [According to the Gregorian calendar, it was Monday on the
 date 01/01/1900. If any year is input through the keyboard write a program to
 find out what is the day on 1st January of this year.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%201%20-%2011.01.2023/1st%20January%20Day.c)
-2. [A five-digit number is entered through the keyboard.
+1. [A five-digit number is entered through the keyboard.
 Write a program to obtain the reversed number and to determine whether the
 original and reversed numbers are equal or not.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%201%20-%2011.01.2023/palindrome.c)
-3. [If the ages of Ram, Shyam and Ajay are input through the keyboard, write a program
+1. [If the ages of Ram, Shyam and Ajay are input through the keyboard, write a program
 to determine the youngest of the three.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%201%20-%2011.01.2023/determine_youngest.c)
-4. [An Insurance company follows following rules to calculate premium. (1) If a
+1. [An Insurance company follows following rules to calculate premium. (1) If a
 person’s health is excellent and the person is between 25 and 35 years of age
 and lives in a city and is a male then the premium is Rs. 4 per thousand and
 his policy amount cannot exceed Rs. 2 lakhs. (2) If a person satisfies all the
@@ -99,17 +101,14 @@ and is a male then the premium is Rs. 6 per thousand and his policy
 cannot exceed Rs. 10,000. (4) In all other cases the person is not insured.
 Write a program to output whether the person should be insured or not, his/her
 premium rate and maximum amount for which he/she can be insured.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%201%20-%2011.01.2023/insurance.c)
-5. [A library charges a fine for every book returned late. For first 5 days the fine
+1. [A library charges a fine for every book returned late. For first 5 days the fine
 is 50 paise, for 6-10 days fine is one rupee and above 10 days fine is 5
 rupees. If you return the book after 30 days your membership will be cancelled.
 Write a program to accept the number of days the member is late to return the
 book and display the fine or the appropriate message.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%201%20-%2011.01.2023/libraryFine.c)
-6. [Write a program using conditional operators to determine
+1. [Write a program using conditional operators to determine
 whether a year entered through the keyboard is a leap year or not.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%201%20-%2011.01.2023/conditional_Leap.c)
-
-Algorithms 2 - 11.01.2023 by Ms. Moumita Roy
----------------------------------------------
-
+</details>
 
 
 <details>
