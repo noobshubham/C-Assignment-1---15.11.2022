@@ -172,7 +172,7 @@ item, n is number of data items and xm is the mean.](https://github.com/noobshub
 
 
 <details>
-    <summary>Sorting Algos by Moumita Mam<summary>
+    <summary>Sorting Algos by Moumita Mam</summary>
 
 1. [Swap Sort](https://github.com/noobshubham/C-Assignments/blob/master/Sorting%20Algos/swap_sort.c)
 2. [Bubble / Insertion / Selection Sort](https://github.com/noobshubham/C-Assignments/blob/master/Sorting%20Algos/sorting_algos.c)
