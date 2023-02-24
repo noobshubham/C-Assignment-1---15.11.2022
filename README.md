@@ -180,6 +180,7 @@ item, n is number of data items and xm is the mean.](https://github.com/noobshub
 4. [Quick Sort](https://github.com/noobshubham/C-Assignments/blob/master/Sorting%20Algos/quick_sort_two.c)
 5. [Reverse Quick Sort - Taking Pivot as Last Element](https://github.com/noobshubham/C-Assignments/blob/master/Sorting%20Algos/reverse_quick_sort.c)
 6. [Topological Sort](https://github.com/noobshubham/C-Assignments/blob/master/Sorting%20Algos/topological_sort.c)
+7. [Heap Sort](https://github.com/noobshubham/C-Assignments/blob/master/Sorting%20Algos/heap_sort.c)
 
 </details>
 
