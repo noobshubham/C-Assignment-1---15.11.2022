@@ -28,7 +28,7 @@ Database of C Assignments
 
 
 <details>
-    <summary><h2>Assignment 3 - 21.11.2022</h2></summary>
+    <summary>Assignment 3 - 21.11.2022</summary>
 
 1. [Write a program to find GCD and LCM of two numbers.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/gcd_n_lcm.c)
 2. [Write a menu driven program to perform different arithmetic operations.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/arithmetic_operation.c)
@@ -41,16 +41,16 @@ Database of C Assignments
 1 2
 1
 ```
-6. [Find the sum of the series ```1 + x + x^2+ x^3+ .. + x^n```](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/sum_of_series_x_pow_n.c)
-7. [Find sum of series ```1 + 1/2 + 1/3 + 1/4 + .. + 1/n ```](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/sum_of_series_one_by_n.c)
-8. [Find Largest and Second Largest element in an array.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/largest_n_second_largest_in_array.c)
-9. [Sort a list of N numbers using Bubble sort technique.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/bubble_sort.c)
-10. [Find if a given matrix is Identity Matrix or not.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/IsIdentityMatrix.c)
+1. [Find the sum of the series ```1 + x + x^2+ x^3+ .. + x^n```](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/sum_of_series_x_pow_n.c)
+2. [Find sum of series ```1 + 1/2 + 1/3 + 1/4 + .. + 1/n ```](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/sum_of_series_one_by_n.c)
+3. [Find Largest and Second Largest element in an array.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/largest_n_second_largest_in_array.c)
+4. [Sort a list of N numbers using Bubble sort technique.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/bubble_sort.c)
+5.  [Find if a given matrix is Identity Matrix or not.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/IsIdentityMatrix.c)
 </details>
 
 
 <details>
-    <summary><h2>Basic C Programs - 12.12.2022</h2></summary>
+    <summary>Basic C Programs - 12.12.2022</summary>
 
 1. [Write a c program to print Fibonacci series](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/fibonacci_series.c) [without using recursion](https://github.com/noobshubham/C-Assignments/blob/d953766449e4e6894894bd3d3b306bd9db9a3332/Basic%20C%20Programs%20-%2012.12.2022/fibonacci_series.c#L13-L27) and [using recursion.](https://github.com/noobshubham/C-Assignments/blob/d953766449e4e6894894bd3d3b306bd9db9a3332/Basic%20C%20Programs%20-%2012.12.2022/fibonacci_series.c#L6-L11)
 2. [Write a c program to check prime number.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/prime_number.c)
@@ -75,7 +75,7 @@ ABCDEDCBA     543212345
 
 
 <details>
-    <summary><h2>DS Assignment 1 - 13.12.2022 by Ms K Komala Devi</h2></summary>
+    <summary>DS Assignment 1 - 13.12.2022 by Ms K Komala Devi</summary>
 
 1. [Write a C program to implement Stack and its Operations using an Array.](https://github.com/noobshubham/C-Assignments/blob/master/DS%20Assignment%201%20-%2013.12.2022%20by%20Ms%20K%20Komala%20Devi/stack_n_its_operation.c)
 2. [Write a C program to read your  name and display the same.](https://github.com/noobshubham/C-Assignments/blob/master/DS%20Assignment%201%20-%2013.12.2022%20by%20Ms%20K%20Komala%20Devi/display_name.c)
@@ -84,7 +84,7 @@ ABCDEDCBA     543212345
 
 
 <details>
-    <summary><h2>Algorithms 1 - 11.01.2023 by Ms. Moumita Roy</h2></summary>
+    <summary>Algorithms 1 - 11.01.2023 by Ms. Moumita Roy</summary>
 
 1. [According to the Gregorian calendar, it was Monday on the
 date 01/01/1900. If any year is input through the keyboard write a program to
@@ -116,7 +116,7 @@ whether a year entered through the keyboard is a leap year or not.](https://gith
 
 
 <details>
-    <summary><h2>Algorithms 2 - 11.01.2023 by Ms. Moumita Roy</h2></summary>
+    <summary>Algorithms 2 - 11.01.2023 by Ms. Moumita Roy</summary>
 
 1. [Write a program for a matchstick game being played between the computer and a user. 
 Your program should ensure that the computer always wins.](https://github.com/noobshubham/C-Assignments/blob/master/Algorithms%202%20-%2011.01.2023/matchstick_game.c) 
@@ -147,7 +147,7 @@ If x is input through the keyboard, write a program to calculate the sum of firs
 
 
 <details>
-    <summary><h2>Algorithms 3 - 13.01.2023 by Ms. Moumita Roy</h2></summary>
+    <summary>Algorithms 3 - 13.01.2023 by Ms. Moumita Roy</summary>
 
 1. [A positive integer is entered through the keyboard. Write
 a function to obtain the prime factors of this number. For example, prime
