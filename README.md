@@ -3,7 +3,7 @@ Database of C Assignments
 
 
 <details>
-    <summary><h2>Assignment 1 - 15.11.2022</h2></summary>
+    <summary>Assignment 1 - 15.11.2022</summary>
 
 1. [Write a C program to input Principal, Rate and Time and calculate Simple Interest.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%201%20-%2015.11.2022/simple_intrest.c)
 2. [Write a C program to input temperature in Fahrenheit and convert it to Celsius.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%201%20-%2015.11.2022/convert_temps.c)
@@ -17,7 +17,7 @@ Database of C Assignments
 
 
 <details>
-    <summary><h2>Assignment 2 - 17.11.2022</h2></summary>
+    <summary>Assignment 2 - 17.11.2022</summary>
 
 1. [Taking an input N from the user, print all the even numbers in descending order up to zero.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%202%20-%2017.11.2022/desc_even_number.c)
 2. [Write a program to calculate the difference of the sum of all odd numbers upto N and all even Numbers upto N.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%202%20-%2017.11.2022/sum_of_odd_even.c)
