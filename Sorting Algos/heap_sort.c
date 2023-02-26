@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// this function makes the Heap into Max-Heap
 void Heapify(int arr[], int n, int i)
 {
     int largest, left, right;
@@ -7,10 +8,8 @@ void Heapify(int arr[], int n, int i)
     left = 2 * i + 1;
     right = 2 * i + 2;
 
-    if (left < n && arr[left] > arr[largest])
-        largest = left;
-    if (right < n && arr[right] > arr[largest])
-        largest = right;
+    if (left < n && arr[left] > arr[largest]) largest = left;
+    if (right < n && arr[right] > arr[largest]) largest = right;
 
     if (largest != i)
     {
