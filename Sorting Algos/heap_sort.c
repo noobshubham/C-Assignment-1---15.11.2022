@@ -54,6 +54,6 @@ void main() {
     // Sort the Array using Heap Sort
     HeapSort(arr, n);
 
-    // print the sorted array
+    // Display the sorted array
     Display(arr, n);
 }
