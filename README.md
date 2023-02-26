@@ -70,7 +70,7 @@ Database of C Assignments
  ABCDCBA       4321234
 ABCDEDCBA     543212345
 ```
-1.  [Write a c program to convert number in characters.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/convert_number_in_chars.c)
+12.  [Write a c program to convert number in characters.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/convert_number_in_chars.c)
 </details>
 
 
