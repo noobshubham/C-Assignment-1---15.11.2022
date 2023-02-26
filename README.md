@@ -77,9 +77,9 @@ ABCDEDCBA     543212345
 <details>
     <summary>DS Assignment 1 - 13.12.2022 by Ms K Komala Devi</summary>
 
-1. [Write a C program to implement Stack and its Operations using an Array.](https://github.com/noobshubham/C-Assignments/blob/master/DS%20Assignment%201%20-%2013.12.2022%20by%20Ms%20K%20Komala%20Devi/stack_n_its_operation.c)
-2. [Write a C program to read your  name and display the same.](https://github.com/noobshubham/C-Assignments/blob/master/DS%20Assignment%201%20-%2013.12.2022%20by%20Ms%20K%20Komala%20Devi/display_name.c)
-3. [List an Applications of Stack.](https://github.com/noobshubham/C-Assignments/blob/master/DS%20Assignment%201%20-%2013.12.2022%20by%20Ms%20K%20Komala%20Devi/ApplicationOfStack.md)
+1. [Write a C program to implement Stack and its Operations using an Array.](https://github.com/noobshubham/C-Assignments/blob/master/DS%20Assignment%201%20-%2013.12.2022/stack_n_its_operations.c)
+2. [Write a C program to read your  name and display the same.](https://github.com/noobshubham/C-Assignments/blob/master/DS%20Assignment%201%20-%2013.12.2022/display_name.c)
+3. [List an Applications of Stack.](https://github.com/noobshubham/C-Assignments/blob/master/DS%20Assignment%201%20-%2013.12.2022/ApplicationOfStack.md)
 </details>
 
 
