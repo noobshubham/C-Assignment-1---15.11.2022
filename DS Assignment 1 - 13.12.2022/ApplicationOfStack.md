@@ -18,7 +18,7 @@ Application of Stack Data Structure
 3. Undo and Redo mechanism in text editors.
 
 <p align="center">
-<img src="https://github.com/noobshubham/C-Assignments/blob/master/DS%20Assignment%201%20-%2013.12.2022%20by%20Ms%20K%20Komala%20Devi/application%20of%20stack%20data%20structure.png?raw=true" alt="application of stack data structure">
+<img src="https://raw.githubusercontent.com/noobshubham/C-Assignments/master/DS%20Assignment%201%20-%2013.12.2022/application%20of%20stack%20data%20structure.png" alt="application of stack data structure">
 </p>
 
 
@@ -30,5 +30,5 @@ Application of Stack in real life
 3. The history of a web browser is stored in the form of a stack.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/noobshubham/C-Assignments/master/DS%20Assignment%201%20-%2013.12.2022%20by%20Ms%20K%20Komala%20Devi/real%20world%20application%20of%20stack.png" alt="real world application of stack">
+<img src="https://raw.githubusercontent.com/noobshubham/C-Assignments/master/DS%20Assignment%201%20-%2013.12.2022/real%20world%20application%20of%20stack.png" alt="real world application of stack">
 </p>
