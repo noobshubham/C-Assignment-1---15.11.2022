@@ -11,7 +11,7 @@ struct stack
 void create(struct stack *s)
 {
     printf("Enter the Size of the Array: ");
-    scanf("%d", s->size);
+    scanf("%d", &s->size);
     s->top = -1;
     s->arr = (int *)malloc(s->size * sizeof(int));
 }
@@ -55,4 +55,19 @@ int peek(struct stack s, int index)
     if (s.top - index + 1 < 0) printf("Invalid Index\n");
     val = s.arr[s.top - index + 1];
     return val;
+}
+
+void main() {
+    struct stack stk;
+    create(&stk);
+
+    push(&stk, 10);
+    push(&stk, 30);
+    push(&stk, 50);
+    push(&stk, 70);
+
+    printf("%d \n", peek(stk, 1));
+    printf("%d \n", peek(stk, 2));
+    printf("%d \n", peek(stk, 3));
+    printf("%d \n", peek(stk, 4));
 }
