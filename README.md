@@ -3,7 +3,7 @@ Database of C Assignments
 
 
 <details>
-    <summary>Assignment 1 - 15.11.2022</summary>
+    <summary>Assignment 1 - 15.11.2022 by Ms Pooja Shrivastav</summary>
 
 1. [Write a C program to input Principal, Rate and Time and calculate Simple Interest.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%201%20-%2015.11.2022/simple_intrest.c)
 2. [Write a C program to input temperature in Fahrenheit and convert it to Celsius.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%201%20-%2015.11.2022/convert_temps.c)
@@ -17,7 +17,7 @@ Database of C Assignments
 
 
 <details>
-    <summary>Assignment 2 - 17.11.2022</summary>
+    <summary>Assignment 2 - 17.11.2022 by Ms Pooja Shrivastav</summary>
 
 1. [Taking an input N from the user, print all the even numbers in descending order up to zero.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%202%20-%2017.11.2022/desc_even_number.c)
 2. [Write a program to calculate the difference of the sum of all odd numbers upto N and all even Numbers upto N.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%202%20-%2017.11.2022/sum_of_odd_even.c)
@@ -28,7 +28,7 @@ Database of C Assignments
 
 
 <details>
-    <summary>Assignment 3 - 21.11.2022</summary>
+    <summary>Assignment 3 - 21.11.2022 by Ms Pooja Shrivastav</summary>
 
 1. [Write a program to find GCD and LCM of two numbers.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/gcd_n_lcm.c)
 2. [Write a menu driven program to perform different arithmetic operations.](https://github.com/noobshubham/C-Assignments/blob/master/Assignment%203%20-%2021.11.2022/arithmetic_operation.c)
@@ -50,7 +50,7 @@ Database of C Assignments
 
 
 <details>
-    <summary>Basic C Programs - 12.12.2022</summary>
+    <summary>Basic C Programs - 12.12.2022 by Ms. Moumita Roy</summary>
 
 1. [Write a c program to print Fibonacci series](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/fibonacci_series.c) [without using recursion](https://github.com/noobshubham/C-Assignments/blob/d953766449e4e6894894bd3d3b306bd9db9a3332/Basic%20C%20Programs%20-%2012.12.2022/fibonacci_series.c#L13-L27) and [using recursion.](https://github.com/noobshubham/C-Assignments/blob/d953766449e4e6894894bd3d3b306bd9db9a3332/Basic%20C%20Programs%20-%2012.12.2022/fibonacci_series.c#L6-L11)
 2. [Write a c program to check prime number.](https://github.com/noobshubham/C-Assignments/blob/master/Basic%20C%20Programs%20-%2012.12.2022/prime_number.c)
