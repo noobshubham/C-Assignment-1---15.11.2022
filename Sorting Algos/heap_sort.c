@@ -4,6 +4,7 @@
 void Heapify(int arr[], int n, int i)
 {
     int largest, left, right;
+
     largest = i;
     left = 2 * i + 1;
     right = 2 * i + 2;
@@ -23,14 +24,11 @@ void Heapify(int arr[], int n, int i)
 
 void HeapSort(int arr[], int n)
 {
-    int i;
-
     // to make the arr into Max-Heap for the first time before sorting
-    for (i = n / 2 - 1; i >= 0; i--)
-        Heapify(arr, n, i);
+    for (int i = n / 2 - 1; i >= 0; i--) Heapify(arr, n, i);
 
     // swap the root node with right-most leaf (i)
-    for (i = n - 1; i >= 0; i--)
+    for (int i = n - 1; i >= 0; i--)
     {
         int temp = arr[0];
         arr[0] = arr[i];
