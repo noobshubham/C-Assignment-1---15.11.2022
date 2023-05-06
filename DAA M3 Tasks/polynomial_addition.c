@@ -15,57 +15,71 @@ void AdditionPolynomial()
         struct node *temp, *tempf = first, *temps = second, *newnode;
         while (tempf != NULL && temps != NULL)
         {
+            newnode = (struct node *)malloc(sizeof(struct node));
             if (tempf->exponent == temps->exponent)
             {
-                newnode = (struct node *)malloc(sizeof(struct node));
                 newnode->coefficient = tempf->coefficient + temps->coefficient;
                 newnode->exponent = tempf->exponent;
                 newnode->next = NULL;
-                if (result == NULL)
-                    result = newnode;
-                else
-                {
-                    temp = result;
-                    while (temp->next != NULL)
-                        temp = temp->next;
-                    temp->next = newnode;
-                }
                 tempf = tempf->next;
                 temps = temps->next;
             }
             else if (tempf->exponent > temps->exponent)
             {
-                newnode = (struct node *)malloc(sizeof(struct node));
                 newnode->coefficient = tempf->coefficient;
                 newnode->exponent = tempf->exponent;
                 newnode->next = NULL;
-                if (result == NULL)
-                    result = newnode;
-                else
-                {
-                    temp = result;
-                    while (temp->next != NULL)
-                        temp = temp->next;
-                    temp->next = newnode;
-                }
                 tempf = tempf->next;
             }
             else
             {
-                newnode = (struct node *)malloc(sizeof(struct node));
                 newnode->coefficient = temps->coefficient;
                 newnode->exponent = temps->exponent;
                 newnode->next = NULL;
-                if (result == NULL)
-                    result = newnode;
-                else
-                {
-                    temp = result;
-                    while (temp->next != NULL)
-                        temp = temp->next;
-                    temp->next = newnode;
-                }
                 temps = temps->next;
+            }
+            if (result == NULL)
+                result = newnode;
+            else
+            {
+                temp = result;
+                while (temp->next != NULL)
+                    temp = temp->next;
+                temp->next = newnode;
+            }
+        }
+        while (tempf != NULL)
+        {
+            newnode = (struct node *)malloc(sizeof(struct node));
+            newnode->coefficient = tempf->coefficient;
+            newnode->exponent = tempf->exponent;
+            newnode->next = NULL;
+            tempf = tempf->next;
+            if (result == NULL)
+                result = newnode;
+            else
+            {
+                temp = result;
+                while (temp->next != NULL)
+                    temp = temp->next;
+                temp->next = newnode;
+            }
+        }
+        while (temps != NULL)
+        {
+            newnode = (struct node *)malloc(sizeof(struct node));
+            newnode->coefficient = temps->coefficient;
+            newnode->exponent = temps->exponent;
+            newnode->next = NULL;
+            temps = temps->next;
+            if (result == NULL)
+                result = newnode;
+            else
+            {
+                temp = result;
+                while (temp->next != NULL)
+                    temp = temp->next;
+                temp->next = newnode;
             }
         }
     }
@@ -73,44 +87,50 @@ void AdditionPolynomial()
         printf("Any of the Polynomial is NULL!");
 }
 
-void InsertPolynomial(int seriel_no, int coefficient, int exponent)
+void DisplayPolynomial(struct node *temp)
 {
-    if (seriel_no == 1)
+    while (temp->next != NULL)
     {
-        struct node *newnode = (struct node *)malloc(sizeof(struct node));
-        newnode->coefficient = coefficient;
-        newnode->exponent = exponent;
-        newnode->next = NULL;
+        printf("%dx^%d + ", temp->coefficient, temp->exponent);
+        temp = temp->next;
+    }
+    printf("%dx^%d\n\n", temp->coefficient, temp->exponent);
+}
+
+void InsertPolynomial(int serial_no, int coef, int expo)
+{
+    struct node *newnode, *temp;
+    newnode = (struct node *)malloc(sizeof(struct node));
+    newnode->coefficient = coef;
+    newnode->exponent = expo;
+    newnode->next = NULL;
+    if (serial_no == 1)
+    {
         if (first == NULL)
             first = newnode;
         else
         {
-            struct node *temp = first;
+            temp = first;
             while (temp->next != NULL)
                 temp = temp->next;
             temp->next = newnode;
         }
-        printf("Added New Node as: %dx^%d\n", coefficient, exponent);
     }
-    else if (seriel_no == 2)
+    else if (serial_no == 2)
     {
-        struct node *newnode = (struct node *)malloc(sizeof(struct node));
-        newnode->coefficient = coefficient;
-        newnode->exponent = exponent;
-        newnode->next = NULL;
         if (second == NULL)
             second = newnode;
         else
         {
-            struct node *temp = second;
+            temp = second;
             while (temp->next != NULL)
                 temp = temp->next;
             temp->next = newnode;
         }
-        printf("Added New Node as: %dx^%d\n", coefficient, exponent);
     }
     else
-        printf("Can't Be Added!");
+        printf("Can't be Added!");
+    printf("New Node Added as %dx^%d\n", coef, expo);
 }
 
 void CreatePolynomial(int serial_no, int degree)
@@ -125,34 +145,24 @@ void CreatePolynomial(int serial_no, int degree)
     }
 }
 
-void DisplayPolynomial(struct node *temp)
-{
-    while (temp->next != NULL)
-    {
-        printf("%dx^%d + ", temp->coefficient, temp->exponent);
-        temp = temp->next;
-    }
-    printf("%dx^%d\n\n", temp->coefficient, temp->exponent);
-}
-
 void main()
 {
-    int i, degree;
-    printf("Enter the Highest Degree in 1st Polynomial: ");
-    scanf("%d", &degree);
-    CreatePolynomial(1, degree);
+    int deg;
+    printf("Enter the Highest Degree for 1st Polynomial: ");
+    scanf("%d", &deg);
+    CreatePolynomial(1, deg);
 
-    printf("\nFirst Polynomial Expression is: ");
+    printf("First Polynomial Expression is: ");
     DisplayPolynomial(first);
 
-    printf("Enter the Highest Degree in 2nd Polynomial: ");
-    scanf("%d", &degree);
-    CreatePolynomial(2, degree);
+    printf("Enter the Highest Degree for 2nd Polynomial: ");
+    scanf("%d", &deg);
+    CreatePolynomial(2, deg);
 
-    printf("\nSecond Polynomial Expression is: ");
+    printf("Second Polynomial Expression is: ");
     DisplayPolynomial(second);
 
     AdditionPolynomial();
-    printf("The addition of these two Polynomials are: ");
+    printf("Summing Up these two Polynomials are: ");
     DisplayPolynomial(result);
 }
