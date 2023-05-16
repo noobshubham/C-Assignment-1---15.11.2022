@@ -5,8 +5,22 @@ struct node
 {
     int coefficient;
     int exponent;
+    int length;
     struct node *next;
 } *first = NULL, *second = NULL, *result = NULL;
+
+void MakeCircular(struct node *head)
+{
+    int count = 0;
+    struct node *temp = head;
+    while (temp->next != NULL)
+    {
+        count++;
+        temp = temp->next;
+    }
+    temp->next = head;
+    head->length = count + 1;
+}
 
 void AdditionPolynomial()
 {
@@ -87,9 +101,11 @@ void AdditionPolynomial()
         printf("Any of the Polynomial is NULL!");
 }
 
-void DisplayPolynomial(struct node *temp)
+void DisplayPolynomial(struct node *head)
 {
+    struct node *temp = head;
     while (temp->next != NULL)
+    // for (int i = 0; i < head->length - 1; i++)
     {
         printf("%dx^%d + ", temp->coefficient, temp->exponent);
         temp = temp->next;
@@ -152,6 +168,7 @@ void main()
     scanf("%d", &deg);
     CreatePolynomial(1, deg);
 
+    // MakeCircular(first);
     printf("First Polynomial Expression is: ");
     DisplayPolynomial(first);
 
@@ -159,6 +176,7 @@ void main()
     scanf("%d", &deg);
     CreatePolynomial(2, deg);
 
+    // MakeCircular(second);
     printf("Second Polynomial Expression is: ");
     DisplayPolynomial(second);
 
