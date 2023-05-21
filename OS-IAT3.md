@@ -18,3 +18,11 @@ Page table Implementation
 1. page table is kept in main mamory
 2. page-table base register (ptbr) points to the page table
 3. page-table length register (ptlr) indicates size of the page table
+
+
+Segmentation
+----------------
+
+- segmentation is a process in which we divide the program into parts and then put it into main memory
+- it divides the program by segments of sub-program
+- segments can be of various size
