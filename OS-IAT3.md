@@ -26,3 +26,26 @@ Segmentation
 - segmentation is a process in which we divide the program into parts and then put it into main memory
 - it divides the program by segments of sub-program
 - segments can be of various size
+
+
+consider a process of writing a simple program of reading data from one file and copy them to another file
+
+SOURCE FILE ------------------------> DESTINATION FILE
+
+acquire input file name
+    write promt to screen
+    accept input
+acquire output file name
+    write promt to screen
+    accept input
+open input file
+    if input file doesn't exit, abort
+create output file
+    if file exist, abort
+loop
+    read data from input file
+    write data to output file
+untill read fails
+close output file
+write completion message to screen
+terminate normally
